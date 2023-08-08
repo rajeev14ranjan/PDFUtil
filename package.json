@@ -1,0 +1,15 @@
+{
+  "name": "pdfutil",
+  "version": "1.0.0",
+  "description": "A Util to create PDF out of images",
+  "main": "pdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajeev Ranjan",
+  "license": "MIT",
+  "dependencies": {
+    "image-size": "^1.0.2",
+    "pdfkit": "^0.13.0"
+  }
+}
